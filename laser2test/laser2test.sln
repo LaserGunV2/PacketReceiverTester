@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laser2test", "laser2test\laser2test.csproj", "{057727B4-5A55-4044-8020-5A26AC53E818}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{057727B4-5A55-4044-8020-5A26AC53E818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057727B4-5A55-4044-8020-5A26AC53E818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057727B4-5A55-4044-8020-5A26AC53E818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057727B4-5A55-4044-8020-5A26AC53E818}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
